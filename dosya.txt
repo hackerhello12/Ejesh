@@ -1,0 +1,4 @@
+vless://031de2db-83e1-4d86-b9d1-a2d1b7969b0c@128.199.51.98:443?security=tls&type=ws&headerType=&path=%2F&host=mux.nagazi98.ru&sni=mux.nagazi98.ru&fp=chrome&alpn=http%2F1.1&fragment=1%2C1%2Ctlshello#%F0%9F%9A%80%20Marz%20%28Ejesh%29%20%5BVLESS%20-%20ws%5D 
+False
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPekktOTJOT0Y5ZXdCZE1laElUdURR@91.108.244.215:1080#%F0%9F%9A%80%20Marz%20%28Ejesh%29%20%5BShadowsocks%20-%20tcp%5D
+vless://bea60d87-33ab-453a-ba2c-e507f4ad4a07@157.52.81.22:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&host=Berdishka.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=Berdishka.global.ssl.fastly.net#Ejesh
